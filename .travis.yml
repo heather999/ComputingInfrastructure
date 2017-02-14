@@ -11,7 +11,7 @@ before_install:
 install:
     - conda install --yes python="2.7" psutil sphinx numpy scipy gdal cython h5py pycurl shapely mock matplotlib
     - pip install --user travis-sphinx
-    - conda install -c conda-forge pypandoc
+    - conda install --yes -c conda-forge pypandoc
 
 script:
     travis-sphinx --nowarn build
