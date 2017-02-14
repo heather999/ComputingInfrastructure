@@ -39,7 +39,7 @@ GitHub <https://github.com/drphilmarshall/GettingStarted#top>`__," aimed
 at people trying to contribute to GitHub projects. The DM team has a
 good page on `getting started with git and recommended
 practices <http://developer.lsst.io/en/latest/tools/git_setup.html>`__.
- `The Pro Git book <http://git-scm.com/book/en/v2>`__ is good
+`The Pro Git book <http://git-scm.com/book/en/v2>`__ is a good
 introduction to git.
 
 .. _DevelopingDESCSoftware-Desiging-a-Project:-Repository-Organization
